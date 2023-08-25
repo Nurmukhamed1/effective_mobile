@@ -1,0 +1,11 @@
+Tom|Jerry|Jonovich|Disney|0000|87771112234
+Patrick|Star|Fatherstar|Disney underwater|8888|87771782233
+Vinni|Pukh|Medvedev|Russian disney|9999|87771112999
+Super|Man|Frommars|Mars Airlines|7777|87771112777
+Spiderman|Peter|Parker|Marvel|1212|87771111212
+Halk|Greenman|Scientist|Marvel scienses|4545|87771114545
+Name|Lastname|Myfather|Organization Company|0001|87771110001
+Azat|Duisen|Duisenuly|Google|2200|87471234567
+Nurlan|Nurmash|Mukhtaruly|XYZ Company|1111|87771112233
+Asyl|Aisha|Aqyn|ABC|3333|87788888888
+Madi||Murat|GGG org|4444|87770000001
